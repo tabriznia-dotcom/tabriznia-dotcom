@@ -10,7 +10,7 @@ I build secure, accessible WordPress plugins and web platforms — with first-cl
 <!-- Replace the links below with your real profiles, or delete the ones you don't use -->
 [![Email](https://img.shields.io/badge/Email-tabriznia@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tabriznia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amin%20Tabrizi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amintabrizi-dev/)
-[![Website](https://img.shields.io/badge/Website-yoursite.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://yoursite.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@AMINTABRIZNIA-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AMINTABRIZNIA)
 
 </div>
 
